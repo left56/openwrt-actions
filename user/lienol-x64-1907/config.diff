@@ -216,3 +216,23 @@ CONFIG_PACKAGE_wpad=n
 CONFIG_PACKAGE_wpad-openssl=y
 
 
+## 杂七杂八
+CONFIG_PACKAGE_iperf3-ssl=y
+CONFIG_PACKAGE_lrzsz=y
+CONFIG_PACKAGE_lscpu=y
+CONFIG_PACKAGE_lsof=y
+CONFIG_PACKAGE_pciutils=y
+CONFIG_PACKAGE_usbutils=y
+CONFIG_PACKAGE_xl2tpd=y
+CONFIG_PACKAGE_ppp-mod-pptp=y
+CONFIG_PACKAGE_bash=y
+CONFIG_PACKAGE_iputils-arping=y
+CONFIG_PACKAGE_iputils-clockdiff=y
+CONFIG_PACKAGE_iputils-ping=y
+CONFIG_PACKAGE_iputils-ping6=y
+CONFIG_PACKAGE_iputils-tftpd=y
+CONFIG_PACKAGE_iputils-tracepath=y
+CONFIG_PACKAGE_iputils-tracepath6=y
+CONFIG_PACKAGE_iputils-traceroute6=y
+CONFIG_PACKAGE_open-vm-tools-fuse=y
+CONFIG_PACKAGE_snmpd=y
