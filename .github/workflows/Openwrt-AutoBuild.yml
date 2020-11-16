@@ -8,8 +8,8 @@ on:
       - master
     paths:
       - 'start'
-  schedule:
-    - cron: 30 2 * * *
+  # schedule:
+  #   - cron: 30 2 * * *
   watch:
     types: [started]
 
